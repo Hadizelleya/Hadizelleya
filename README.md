@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hady Zellaya</h1>
 <h3 align="center">A Passionate Web Developer from Lebanon.</h3>
 
-- 🔭 I’m currently working on *Hexashop*
+- 🔭 I’m currently working on *Falfoul* a website for a restuarant
 
 - 🌱 I’m currently learning *Next.js, TypeScript*
 
