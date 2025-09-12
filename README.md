@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Hady Zellaya</h1>
 <h3 align="center">A Passionate Web Developer from Lebanon.</h3>
 
-- 🔭 I’m currently working on *مشروعي* a website for a client
+- 🔭 I’m currently working with *LYXA.AI* 
 
-- 🌱 I’m currently learning *Next.js, TypeScript*
+- 🌱 I’m currently learning *Next.js, TypeScript, more Backend*
 
-- 👯 I’m looking to collaborate on [Strapi Store](https://github.com/Hadizelleya/strapi-store)
-
-- 🤝 I’m looking for help with [Netflix Search App](https://github.com/Hadizelleya/netflix-search-app)
+- 🤝 I’m looking for more communications with developers. 
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
 - 💬 Ask me about *JavaScript, React*
 
-- 📫 How to reach me *Hadi_scorpion95@hotmail.com*
+- 📫 How to reach me *Hadizellaya03@gmail.com*
 
 - ⚡ Fun fact *Lets React with each other🌀*
 
