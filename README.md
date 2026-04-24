@@ -18,17 +18,17 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hadyzellaya" target="_blank">
+<p align="left" style="display: "flex", gap: 10 ">
+<a href="https://twitter.com/hadyzellaya" target="_blank" style="display: "inline-block" ">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hadyzellaya" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/hadizellaya" target="_blank">
+<a href="https://linkedin.com/in/hadizellaya" target="_blank" style="display: "inline-block" ">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hadizellaya" height="30" width="40" />
 </a>
-<a href="https://fb.com/hadizelleya" target="_blank">
+<a href="https://fb.com/hadizelleya" target="_blank" style="display: "inline-block" ">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hadizelleya" height="30" width="40" />
 </a>
-<a href="https://instagram.com/hadyzelleya" target="_blank">
+<a href="https://instagram.com/hadyzelleya" target="_blank" style="display: "inline-block" ">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hadyzelleya" height="30" width="40" />
 </a>
 </p>
